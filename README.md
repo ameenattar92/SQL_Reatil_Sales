@@ -1,1 +1,1 @@
-# SQL_Reatil_Sales
+# SQL_Retail_Sales
